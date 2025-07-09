@@ -1,5 +1,5 @@
 # <p align="center">Projet IA - Deep Learning</p>
-# <p align="center">DIAGMIND.AI</p>
+# <p align="center">DiagMind.AI</p>
 # 📸 Aide aux Diagnostique en Imagerie Médicale
 
 ---
