@@ -29,10 +29,9 @@ Grâce à l’intelligence artificielle, à la vision par ordinateur et à des m
 
 ```bash
 .
-├── models/               # Modèles d'IA entraînés
 ├── app/                  # Code source de l'application
-├── notebooks/            # Analyses exploratoires et entraînement
-├── utils/                # Fonctions auxiliaires
+├── Notebooks/            # Analyses exploratoires et entraînement
+├── app.py                # Fonctions auxiliaires
 ├── README.md             # Ce fichier
 └── requirements.txt      # Dépendances Python
 ````
@@ -67,7 +66,7 @@ pip install -r requirements.txt
 
 ```python
 from model import predict_image
-result = predict_image("scanner_patient_01.png")
+result = predict_image("IRM_01.png")
 print(result)
 ```
 
