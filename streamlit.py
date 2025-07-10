@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from keras.models import load_model
 
+
 # Load the trained model
 model = load_model("./Notebook/models/model_cnn_resnet50.keras")
 
