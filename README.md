@@ -43,8 +43,8 @@ Grâce à l’intelligence artificielle, à la vision par ordinateur et à des m
 1. Clonez le dépôt :
 
 ```bash
-git clone git@github.com:matthieugraziani/DiagMind_AI.git
-cd DiagMind_ai
+git clone git@github.com:matthieugraziani/Deep Learning.git
+cd Deep Learning
 ```
 
 2. Créez un environnement virtuel :
@@ -60,7 +60,11 @@ source venv/bin/activate  # sous Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
----
+4.Lancer Streamlit :
+
+```bash
+run streamlit ./Streamlit/app.py
+```
 
 ## 🖼️ Exemples d'Utilisation
 
@@ -91,7 +95,7 @@ print(result)
 
 Pour toute question, suggestion ou contribution :
 
-📧 
+📧 matthieu.graziani007@gmail.com
 🌐 
 
 ```
