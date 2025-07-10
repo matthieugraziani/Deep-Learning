@@ -29,9 +29,10 @@ Grâce à l’intelligence artificielle, à la vision par ordinateur et à des m
 
 ```bash
 .
-├── app/                  # Code source de l'application
+├── models/               # Modèles entrainés
+├── utils/                # Fonctions auxiliaires              
 ├── Notebooks/            # Analyses exploratoires et entraînement
-├── app.py                # Fonctions auxiliaires
+├── streamlit.py          # Code source de l'application
 ├── README.md             # Ce fichier
 └── requirements.txt      # Dépendances Python
 ````
