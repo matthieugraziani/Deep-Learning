@@ -1,6 +1,6 @@
 # <p align="center">Projet IA - Deep Learning</p>
 # <p align="center">DiagMind.AI</p>
-# 📸 Aide aux Diagnostiques en Imagerie Médicale
+# 📸 Aide aux Diagnostique en Imagerie Médicale
 
 ---
 
@@ -30,9 +30,9 @@ Grâce à l’intelligence artificielle, à la vision par ordinateur et à des m
 ```bash
 .
 ├── models/               # Modèles entrainés
-├── utils/                # Fonctions auxiliaires              
+├── utils/                # Code source de l'application
 ├── Notebooks/            # Analyses exploratoires et entraînement
-├── streamlit.py          # Code source de l'application
+├── streamlit.py          # Fonctions auxiliaires
 ├── README.md             # Ce fichier
 └── requirements.txt      # Dépendances Python
 ````
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 4.Lancer Streamlit :
 
 ```bash
-run streamlit ./Streamlit/app.py
+run streamlit ./streamlit.py
 ```
 
 ## 🖼️ Exemples d'Utilisation
@@ -99,4 +99,4 @@ Pour toute question, suggestion ou contribution :
 📧 matthieu.graziani007@gmail.com
 🌐 
 
----
+```
