@@ -32,7 +32,7 @@ Grâce à l’intelligence artificielle, à la vision par ordinateur et à des m
 ├── models/               # Modèles entrainés
 ├── utils/                # Code source de l'application
 ├── Notebooks/            # Analyses exploratoires et entraînement
-├── app.py          # Fonctions auxiliaires
+├── app.py                # Application Streamlit
 ├── README.md             # Ce fichier
 └── requirements.txt      # Dépendances Python
 ````
